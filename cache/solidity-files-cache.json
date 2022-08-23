@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/David/Projects/Web3/wbw3/contracts/Web3RSVP.sol": {
+      "lastModificationDate": 1661267329563,
+      "contentHash": "4418d4a55de2b84af9ea58fc94e64a4e",
+      "sourceName": "contracts/Web3RSVP.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Web3RSVP"
+      ]
+    }
+  }
+}
